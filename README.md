@@ -20,8 +20,15 @@ Mashable’s entire business is dependent on popularity of articles. With accura
   - DecisionTreeRegressor
   
 - Stats on test data :
-  - r2-score for linear regression:  -0.29445068550074005
-  - r2-score for Decision tree :  -0.3957861538344003
-  - r2-score for Random forest :  -0.10886081575825046
+
+  - raw data
+    - r2-score for Linear Regression:  -0.2944
+    - r2-score for Decision tree :  -0.3957
+    - r2-score for Random Forest :  -0.1088
+   
+  - Preprocessed data
+    - r2-score for Linear Regression:  -3813840325600752.5
+    - r2-score for Decision Tree :  -0.5309
+    - r2-score for Random Forest :  0.0158
   
 ---
