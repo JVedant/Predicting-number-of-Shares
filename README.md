@@ -1,1 +1,27 @@
 # Predicting-number-of-Shares
+
+predicting the number of shares based on how popular the article is.
+
+## Business Challenge :
+
+[Mashable](www.mashable.com) is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe.Just like any other media company its success depends on the popularity of articles.  And one of the key metrics to measure popularity is no. of shares done on article.
+
+## Business benifits :
+Mashable’s entire business is dependent on popularity of articles. With accurate prediction of shares, company can choose which articles to publish hence driving higher user engagement and profits.  Rough estimate is 1% increase in engagement time (minutes) increases profit by up to 5%
+
+---
+### Additional information :
+
+- Technology used - Machine Learning
+- Dataset - [OnlineNewsPopularity](https://github.com/JVedant/Predicting-number-of-Shares/dataset/OnlineNewsPopularity.csv)
+- Models used :
+  - LinearRegression
+  - RandomForestRegressor
+  - DecisionTreeRegressor
+  
+- Stats on test data :
+  - r2-score for linear regression:  -0.29445068550074005
+  - r2-score for Decision tree :  -0.3957861538344003
+  - r2-score for Random forest :  -0.10886081575825046
+  
+---
