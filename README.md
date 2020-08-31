@@ -1,4 +1,4 @@
-# Predicting-number-of-Shares
+# Predicting-number-of-Stocks
 
 predicting the number of shares based on how popular the article is.
 
