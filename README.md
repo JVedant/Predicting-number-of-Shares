@@ -4,7 +4,8 @@ predicting the number of shares based on how popular the article is.
 
 ## Business Challenge :
 
-[Mashable](www.mashable.com) is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe.Just like any other media company its success depends on the popularity of articles. And one of the key metrics to measure popularity is to find how many times the article is shared.
+[Mashable](www.mashable.com) is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. Just like any other media company its success depends on the popularity of articles.
+One of the key metrics to measure popularity is to find how many times the article is shared.
 
 ## Business benifits :
 Mashable’s entire business is dependent on popularity of articles. With accurate prediction of shares, company can choose which articles to publish hence driving higher user engagement and profits.  Rough estimate is 1% increase in engagement time (minutes) increases profit by up to 5%
