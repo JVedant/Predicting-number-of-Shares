@@ -1,6 +1,6 @@
-# Predicting-number-of-Stocks
+# Predicting-number-of-Shares
 
-predicting the number of stocks based on how popular the article is.
+predicting the number of shares based on how popular the article is.
 
 ## Business Challenge :
 
